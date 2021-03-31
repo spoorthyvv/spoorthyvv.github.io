@@ -7,7 +7,7 @@
 
 ## Education
 		                                |  
-		 -------------------------------|---------------------------------------------------------------------------------------------------------
+		 
 
 		 UNDER GRADUATION (ONGOING)	|	 ALVA’S INSTITUTE OF ENGINEERING AND TECHNOLOGY Currently pursuing fifth semester of Computer Science Engineering Course with current CGPA of 8.4
 							 
