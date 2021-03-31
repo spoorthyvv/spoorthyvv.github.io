@@ -11,8 +11,9 @@
 
     UNDER GRADUATION (ONGOING) 
 
-    ALVA’S INSTITUTE OF ENGINEERING AND TECHNOLOGY Currently pursuing third year in 
-    Computer Science Engineering Course with current CGPA of 8.4
+    ALVA’S INSTITUTE OF ENGINEERING AND TECHNOLOGY Currently pursuing 
+    third year in Computer Science Engineering Course with current 
+    CGPA of 8.4
 				
 				
     PRE-UNIVESITY   
