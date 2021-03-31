@@ -6,6 +6,10 @@
 		 Bangalore, Karnataka ,8105136046 , spoorthyvv@gmail.com,spoorthy.osb@gmail.com
 
 ## Education
+
+{
+  "wrap_width": 100
+}
 		                                |  
 		 
 
