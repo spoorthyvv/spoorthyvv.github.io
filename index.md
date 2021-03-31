@@ -24,10 +24,10 @@ ST.PETER’S SCHOOL , BANGALORE Obtained with a percentile of 80.25
 
 ### LEADERSHIP 
 
-    Currently an active part of **Edwin’s Lab** at Alva’s Institute of Engineering and
+    Currently an active part of Edwin’s Lab at Alva’s Institute of Engineering and
     Technology .
 
-    An active Leader in **NCC** with Rank Cadet Sargent and also attended Camps conducted in
+    An active Leader in NCC with Rank Cadet Sargent and also attended Camps conducted in
     Mysore (EBSB) and Annual Training Camp AIET
 
     An active Senior in Providing Resources and Guidance to fresh minds in college voluntarily.
