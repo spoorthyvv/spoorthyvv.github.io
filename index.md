@@ -5,8 +5,7 @@
 
 ### Contact Details  
 
-    Bangalore, Karnataka ,8105136046 , spoorthyvv@gmail.com,spoorthy.osb@gmail.com                                                                                                              
-
+    Bangalore, Karnataka ,8105136046 , spoorthyvv@gmail.com,spoorthy.osb@gmail.com
 ### Education
 
     UNDER GRADUATION (ONGOING) 
