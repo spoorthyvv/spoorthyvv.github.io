@@ -26,13 +26,14 @@
 
 ### LEADERSHIP 
 
-    Currently an active part of Edwin’s Lab at Alva’s Institute of Engineering and
-    Technology .
+    
 
     An active Leader in NCC with Rank Cadet Sargent and also attended Camps conducted in
     Mysore (EBSB) and Annual Training Camp AIET
+    
+    B and C Certificate holder in NCC Airwing .
 
-    An active Senior in Providing Resources and Guidance to fresh minds in college voluntarily.
+    
 
 ### ACTIVITIES AND WORKSHOPS
 
@@ -69,17 +70,9 @@
 ### INTERESTS 
 
     Love playing Basketball , chess , Throwball , Athletics and many more .
-    Exploration in various Opensource projects
-    Love chemistry.Fascinated with Math and Physics
-    Limitless 
-
-### COMMUNICATION 
+   
 
 
-    Voluntary participation in video bit making at various platforms to provide information
-    about Self-experience for public assistance.
-    Interacted with NDRF Crew during NCC program.
-    Endless
 
  
                                                            
