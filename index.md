@@ -9,11 +9,11 @@
     
 ### EDUCATION
 
-    UNDER GRADUATION (ONGOING) 
+    UNDER GRADUATION 
 
     ALVA’S INSTITUTE OF ENGINEERING AND TECHNOLOGY Currently pursuing 
     third year in Computer Science Engineering Course with current 
-    CGPA of 8.4
+    CGPA of 8.7
 				
 				
     PRE-UNIVESITY   
@@ -60,7 +60,7 @@
 
     Attended Open Source Summit Automotive Japan Virtual.
 
-### 	SKILLS
+### SKILLS
 
     Familiar with working with Linux Operating Systems .
     Programming in C, C++, SQL, JAVA and PYTHON.
@@ -73,6 +73,12 @@
    
 
 
+### PROJECTS
+
+    • Voice to Command execution using Python and Bash scripting exclusively only for Linux OS.
+    • Worked as a team member in ARES (Alva’s Remote education System) .
+    • Developed an application in Streamlit for Interview practices which was exclusively for HR
+   
 
  
                                                            
