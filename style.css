@@ -1,0 +1,37 @@
+body {
+    background-color: black;
+    margin: 0;
+    overflow: hidden;
+    font-family: Arial, sans-serif;
+}
+
+svg {
+    width: 100vw;
+    height: 100vh;
+}
+
+.node circle {
+    fill: #00cc00;
+    stroke: #003366;
+    stroke-width: 1.5;
+    cursor: pointer;
+    transition: transform 0.3s ease;
+}
+
+.node circle:hover {
+    transform: scale(1.1);
+    fill: #ff4d4d;
+}
+
+.node text {
+    fill: white;
+    font-size: 12px;
+    pointer-events: none;
+}
+
+.link {
+    fill: none;
+    stroke-width: 1.5;
+    stroke-opacity: 0.9;
+    stroke: #4d9dff;
+}
